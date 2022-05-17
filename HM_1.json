@@ -85,7 +85,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://162.55.220.72:5005/object_info_1?name=Daria&age=35&weight=57",
+					"raw": "http://162.55.220.72:5005/object_info_1?name=Oliver&age=1&weight=20",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -100,15 +100,15 @@
 					"query": [
 						{
 							"key": "name",
-							"value": "Daria"
+							"value": "Oliver"
 						},
 						{
 							"key": "age",
-							"value": "35"
+							"value": "1"
 						},
 						{
 							"key": "weight",
-							"value": "57"
+							"value": "20"
 						}
 					]
 				}
@@ -249,7 +249,7 @@
 					]
 				},
 				"url": {
-					"raw": "http://162.55.220.72:5005//user_info_2\n",
+					"raw": "http://162.55.220.72:5007//user_info_2\n",
 					"protocol": "http",
 					"host": [
 						"162",
@@ -257,7 +257,7 @@
 						"220",
 						"72"
 					],
-					"port": "5005",
+					"port": "5007",
 					"path": [
 						"",
 						"user_info_2\n"
